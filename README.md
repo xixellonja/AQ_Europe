@@ -1,6 +1,6 @@
 # AQ_Europe
 This repository contains the codebase and experiments for the Bachelor thesis project:
-“Active Learning for Air Quality Monitoring in Europe” (LMU, 2025).
+“Active Learning for Air Quality Monitoring in Europe” (xixellonja/AQ_Europe/thesis_air_quality.pdf).
 
 The project investigates how active learning can be applied to reduce annotation costs when training a mlp classifier using partially labeled EEA validated data.
 
